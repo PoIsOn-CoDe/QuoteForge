@@ -72,6 +72,6 @@ Follow us on social media to stay informed about the latest QuoteForge developme
 - Instagram: [@QuoteForgeOfficial](https://www.instagram.com/QuoteForgeOfficial)
 - Facebook: [QuoteForge](https://www.facebook.com/QuoteForge)
 
-For inquiries, email us at contact@quoteforge.com.
+For inquiries, email us at codingxiteam@gmail.com.
 
 Let's inspire the world, one quote at a time! 🚀🌟
