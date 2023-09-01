@@ -8,9 +8,9 @@ Welcome to QuoteForge, a revolutionary project dedicated to curating and deliver
 
 - **Extensive Quote Collection**: QuoteForge boasts a vast collection of quotes from renowned personalities, historical figures, and modern influencers. From timeless wisdom to contemporary motivation, we've got it all.
 
-- **Multi-Platform Delivery**: Our quotes are available across various platforms - web, mobile, and social media. We're where the youth is, ensuring they receive their daily dose of inspiration effortlessly.
+- **Multi-Platform Delivery**: Our quotes are available across various platforms - web, mobile. We're where the youth is, ensuring they receive their daily dose of inspiration effortlessly.
 
-- **Personalized AI Quote Generator**: The heart of QuoteForge is its AI-powered chatbot. Users can interact with the bot, expressing their emotions, and receive customized quotes tailored to their feelings.
+- **Personalized AI Quote Generator**: The heart of QuoteForge is its chatbot. Users can interact with the bot, expressing their emotions, and receive customized quotes tailored to their feelings.
 
 - **Human-Like Sentiment Responses**: The chatbot not only generates quotes but also engages users in empathetic conversations. It's designed to provide human-like sentiment replies, fostering a sense of connection.
 
